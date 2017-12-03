@@ -1,0 +1,36 @@
+{
+  "gitbook": "3.1.1",
+  "title": "PWA 实战",
+  "plugins": [
+    "prism",
+    "highlight",
+    "copy-code-button",
+    "edit-link",
+    "github",
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/SangKa/PWA-Book-CN/tree/master",
+      "label": "帮忙纠错"
+    },
+    "github": {
+      "url": "https://github.com/SangKa/PWA-Book-CN"
+    },
+    "github-buttons": {
+      "buttons": [{
+        "user" : "SangKa",
+        "repo" : "PWA-Book-CN",
+        "type" : "star",
+        "size" : "small",
+        "count": true
+      }, {
+        "user" : "SangKa",
+        "repo" : "PWA-Book-CN",
+        "type" : "watch",
+        "size" : "small",
+        "count": true
+      }]
+    }
+  }
+}
